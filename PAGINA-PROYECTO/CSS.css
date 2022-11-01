@@ -220,7 +220,7 @@ i{
     text-shadow: 0 0 1px rgb(255, 253, 253);
     font-size: 20px;
     color: white;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 
 /*Galeria*/
@@ -280,6 +280,14 @@ i{
     margin-left: 1040px;
     position: fixed;
 }
+
+.Pie_Foto{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
 
 /*Configuracion para que sea mas responsivo mediante netbooks*/
 @media screen and (max-width:1366px) {
