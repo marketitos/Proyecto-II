@@ -120,9 +120,6 @@ nav{
     background-color: rgba(224, 217, 217, 0);
     padding: 1rem 2rem;
     display: flex;
-
-
-    
 }
 
 a{
@@ -155,14 +152,6 @@ i{
 
 }
 
-.section-2{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-
-}
 
 /*Informacion*/
 .Titulo-info{
@@ -187,6 +176,7 @@ i{
     text-shadow: 0 0 1px rgb(255, 253, 253);
     font-size: 20px;
     color: white;
+    margin-bottom: 70px;
     
 
 
@@ -220,7 +210,7 @@ i{
     text-shadow: 0 0 1px rgb(255, 253, 253);
     font-size: 20px;
     color: white;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 
 /*Galeria*/
@@ -248,7 +238,7 @@ i{
 }
 .foto{
 
-    width: 300px;
+    width: 280px;
 }
 
 /*Ingresamos los atributo para poder crear la carta */
@@ -286,6 +276,16 @@ i{
     font-size: 25px;
     font-weight: bold;
 }
+
+.Integrantes{
+    margin-top: 250px;
+    border-bottom: 2px solid rgba(180, 174, 174, 0.459);
+
+}
+.foto-5{
+    width: 400px;
+}
+
 
 
 
