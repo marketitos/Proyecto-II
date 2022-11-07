@@ -6,13 +6,13 @@
 
 - <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
-- <script>
- - AOS.init();
-- </script>
+- "<script>"
+ - "AOS.init();"
+- "</script>"
 
 ### y En el Head para el css:
 
-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+- "<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">"
 
 ### Lista de Requisitos: 
 
