@@ -12,7 +12,7 @@
 
 ### y En el Head para el css:
 
-#### '<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">'
+#### '< link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" >'
 
 ### Lista de Requisitos: 
 
