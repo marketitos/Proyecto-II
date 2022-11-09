@@ -6,9 +6,9 @@
 
  `<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>`
 
-<script>
+`<script>
   AOS.init();
-</script>
+</script>`
 
 ### y En el Head para el css:
 
