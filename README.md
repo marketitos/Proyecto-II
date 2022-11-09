@@ -21,4 +21,4 @@
 ## ARDUINO
 
 #### Componentes
-Para realizar el proyecto utilizamos una ARDUINO UNO con una protoboard de 170 puntos para la conexion de los transistores, esta proto nos sirvio para poder administrar el espacio. Luego el soporte decidimos emplear una caja donde estarian todas las conexiones la cual esta integrada a unos anteojos que tienen un ultrasonido en la parte frontal para poder detectar los obstaculos. Por otro lado tenemos unos sensores infrarrojos a los costados para poder encontrar aquellos obstaculos laterales.
+Para realizar el proyecto utilizamos una ARDUINO UNO con una protoboard de 170 puntos para la conexion de los transistores, esta proto nos sirvio para poder administrar el espacio. Luego el soporte decidimos emplear una caja donde estarian todas las conexiones la cual esta integrada a unos anteojos que tienen un ultrasonido en la parte frontal para poder detectar los obstaculos. Por otro lado tenemos unos sensores infrarrojos a los costados para poder encontrar aquellos obstaculos laterales. Por ultimo para poder lograr darle una alimentacion al proyecto decidimos utilizar una Bateria de 9V.
